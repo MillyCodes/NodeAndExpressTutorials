@@ -1,7 +1,7 @@
 {
   "name": "notable",
   "version": "1.0.0",
-  "description": "a note taking app",
+  "description": "a note taking app built for learning node.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
