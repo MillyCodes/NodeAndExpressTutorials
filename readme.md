@@ -1,8 +1,7 @@
 # A Collection of my code along and learning of Node.js and Express.js
 
-[# Intro to Node](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
-
-## **Reviewed** 
+## [# Intro to Node](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
+**Reviewed** 
 Node being a single threaded environment, meaning everything responds to events. Callbacks are functions that are passed to othr functions as arguments and are called when an event happens.
 
 
